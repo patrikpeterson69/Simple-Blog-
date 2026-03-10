@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Patrik\\Simple-Blog-\\backend\\SimpleBlog.Api\\SimpleBlog.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Patrik\\Documents\\GitHub\\Simple-Blog-\\backend\\SimpleBlog.Api\\SimpleBlog.Api.csproj",
       "projectName": "SimpleBlog.Api",
-      "projectPath": "C:\\Users\\Patrik\\Simple-Blog-\\backend\\SimpleBlog.Api\\SimpleBlog.Api.csproj",
+      "projectPath": "C:\\Users\\Patrik\\Documents\\GitHub\\Simple-Blog-\\backend\\SimpleBlog.Api\\SimpleBlog.Api.csproj",
       "packagesPath": "C:\\Users\\Patrik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Patrik\\Simple-Blog-\\backend\\SimpleBlog.Api\\obj\\",
+      "outputPath": "C:\\Users\\Patrik\\Documents\\GitHub\\Simple-Blog-\\backend\\SimpleBlog.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Patrik\\AppData\\Roaming\\NuGet\\NuGet.Config"
